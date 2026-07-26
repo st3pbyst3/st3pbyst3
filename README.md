@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Stefano 👋
 
-<!--
-**st3pbyst3/st3pbyst3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Speech ML Research Engineer working on real-time, multilingual voice and multimodal AI systems.
 
-Here are some ideas to get you started:
+My work connects research and production: developing, evaluating, and shipping technology that helps AI understand people better and communicate naturally, reliably, and in real time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Real-time voice AI and speech-native interaction
+- Multilingual speech synthesis and speech-to-speech systems
+- Speech LLMs, multimodal models, and audio representations
+- Efficient inference, evaluation, and production ML systems
+
+## Selected work
+
+- **[speechllm](https://github.com/st3pbyst3/speechllm)** — speech–language model experiments and tooling
+- **[How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not](https://www.isca-archive.org/interspeech_2025/verdini25_interspeech.html)** — Interspeech 2025
+
+## Interests
+
+Natural voice interfaces, full-duplex interaction, evaluation for real conversations, and the systems that make voice AI dependable outside the lab.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/stefano-perna99/)
